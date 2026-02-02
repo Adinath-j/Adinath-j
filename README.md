@@ -49,8 +49,7 @@ const developer = {
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Adinath-j&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinath-j&theme=radical)
-
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adinath-j&theme=radical)
 ## 🌐 Connect With Me
 
 - [GitHub](https://github.com/Adinath-j)
