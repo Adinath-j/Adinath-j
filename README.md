@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hey, I'm **Adinath**
 
-<!--
-**Adinath-j/Adinath-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI Engineer Roadmap
 
-Here are some ideas to get you started:
+| Area | Status |
+|------|--------|
+| Python & DS | ███████░░░ 90% |
+| Deep Learning | ██░░░░░░░░ 20% |
+| LLMs & GenAI | █░░░░░░░░░ 5% |
+| MLOps | █░░░░░░░░░ 3% |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 MERN Development Skills
+
+| Technology | Proficiency |
+|------------|-------------|
+| React | ████████░░ 80% |
+| Node.js | ████████░░ 80% |
+| Express | ████████░░ 80% |
+| MongoDB | ███████░░░ 70% |
+| JavaScript | █████████░ 90% |
+
+## 🧬 Personal Brand
+
+I build systems that combine **software engineering + artificial intelligence + product thinking**.
+My long-term goal is to design **human-centered AI platforms**, not just apps.
+
+---
+
+## 🚀 About Me
+
+```ts
+const developer = {
+  name: "Adinath",
+  role: "Aspiring AI Engineer & Full-Stack Developer",
+  stack: ["React", "MongoDB", "Express", "Node.js"],
+  working_on: "Dynamic Developer Homepage Extension",
+  goals: [
+    "Build my own AI system",
+    "Create innovative developer tools"
+  ],
+  currently_learning: ["TypeScript", "AI Systems", "Web Development"],
+}
+```
+
+## 🛠️ Tech Stack & Tools
+
+![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,html,css,git,github,vscode,bash,postman,figma)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Adinath-j&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adinath-j)](https://git.io/streak-stats)
+
+## 🌐 Connect With Me
+
+- [GitHub](https://github.com/Adinath-j)
+- [LinkedIn](https://www.linkedin.com/in/adinath-jadhav)
+
+⭐ If you like my work, feel free to star the repos!
