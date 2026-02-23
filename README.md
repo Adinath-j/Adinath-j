@@ -1,11 +1,13 @@
 <div align="center">
-  
+
   <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adinath%20Deepak%20Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20MERN%20Developer%20%7C%20Tech%20Enthusiast&descAlign=50&descAlignY=51&descSize=16"/>
-  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adinath%20Deepak%20Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20MERN%20Developer%20%7C%20Tech%20Enthusiast&descAlign=50&descAlignY=51&descSize=16&cache=false"/>
+
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I'm+Passionate+MERN+Stack+Developer;Generative+AI+Enthusiast;Building+Innovative+Solutions" alt="Typing Animation"/>
-  
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I'm+Passionate+MERN+Stack+Developer;Generative+AI+Enthusiast;Building+Innovative+Solutions&cache=false" alt="Typing Animation"/>
+  </picture>
+
 </div>
 
 ---
