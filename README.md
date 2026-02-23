@@ -224,6 +224,21 @@ graph LR
 
 <div align="center">
 
+## 📋 RECENT ACTIVITY
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: [Waiting for first workflow run]
+<!--RECENT_ACTIVITY:last_update_end-->
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 WEEKLY DEVELOPMENT BREAKDOWN
 
 <!--START_SECTION:waka-->
@@ -245,8 +260,7 @@ Projects:
 
 Learning:
   - 🤖 Generative AI & LLMs
-  - 📊 Advanced Machine Learning
-  - 🔗 Blockchain & Web3 Development
+  - 📊 Machine Learning
 ```
 
 </div>
