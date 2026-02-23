@@ -5,7 +5,7 @@
 
   <!-- Typing Animation -->
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I'm+Passionate+MERN+Stack+Developer;Generative+AI+Enthusiast;Building+Innovative+Solutions&cache=false" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=I'm+Passionate+MERN+Stack+Developer;Generative+AI+Enthusiast;Building+Innovative+Solutions&cache=false" alt="Typing Animation"/>
   </picture>
 
 </div>
@@ -27,7 +27,7 @@
 name: Adinath Deepak Jadhav
 located_in: Kolhapur, India
 current_role: Student
-education: [B. Tech 3rd Year Data Science.]
+education: B. Tech 3rd Year Data Science.
 website: https://portfolio2-flame-psi.vercel.app/
 
 currently_learning: Generative AI, Machine Learning.
@@ -65,7 +65,7 @@ hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath-j&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath-j&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="100%"/>
 
 </div>
 
@@ -75,12 +75,13 @@ hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 
 ## 📊 GITHUB ANALYTICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adinath-j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath-j&theme=tokyonight&hide_border=true"/>
+<img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adinath-j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Adinath-j&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-j&custom_title=Adinath%20Deepak%20Jadhav's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area_color=628fdb&title_color=628fdb&area=true&hide_border=true" width="100%"/>
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-j&custom_title=Adinath%20Deepak%20Jadhav's%20GitHub%20Activity%20Graph&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
@@ -92,7 +93,7 @@ hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 
 <img src="https://media.giphy.com/media/3oz8xtBx06mcZWoNJm/giphy.gif" width="40">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adinath-j&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Adinath-j&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -194,10 +195,7 @@ graph LR
 
 ## 📈 CONTRIBUTION GRAPH
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-j&theme=github-dark&hide_border=true">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-j&theme=default&hide_border=true" />
-</picture>
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-j&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
