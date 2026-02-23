@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adinath Deepak Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20at%20[Your company]&descAlign=50&descAlignY=51&descSize=16"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adinath%20Deepak%20Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20MERN%20Developer%20%7C%20Tech%20Enthusiast&descAlign=50&descAlignY=51&descSize=16"/>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I'm Passionate MERN Stack Developer and Generative AI enthusiast;Build " alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I'm+Passionate+MERN+Stack+Developer;Generative+AI+Enthusiast;Building+Innovative+Solutions" alt="Typing Animation"/>
   
 </div>
 
@@ -45,14 +45,25 @@ hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 
 ## 🚀 TECH STACK & TOOLS
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwindcss,vite,nodejs,python,express,mongodb,firebase,mongoose,reactnative,framer,numpy,git,github,vscode,bootstrap&perline=8" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=js,react,tailwindcss,vite,nodejs,python,express,mongodb,firebase,git,github,vscode,bootstrap&perline=8" alt="My Skills" />
+
+<br/>
+
+**Additional Tools:** Mongoose • React Native • Framer • NumPy • Machine Learning
 
 <br/><br/>
 
 <!-- Programming Languages -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Languages I Speak:**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Adinath-j&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath-j&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </div>
 
@@ -62,12 +73,12 @@ hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 
 ## 📊 GITHUB ANALYTICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Adinath-j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Adinath-j&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adinath-j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinath-j&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Adinath-j&custom_title=Adinath Deepak Jadhav's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area_color=628fdb&title_color=628fdb&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-j&custom_title=Adinath%20Deepak%20Jadhav's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area_color=628fdb&title_color=628fdb&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -79,7 +90,7 @@ hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 
 <img src="https://media.giphy.com/media/3oz8xtBx06mcZWoNJm/giphy.gif" width="40">
 
-<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Adinath-j&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Adinath-j&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -95,28 +106,27 @@ hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%"/>
 
-### 🎨 Karigari - the AI marketplace for Indian Artisans
+### 🎨 Karigari - AI Marketplace for Indian Artisans
 
-[Your projectDescription1]
+An innovative marketplace platform connecting artisans with customers using AI recommendations.
 
-**Tech Stack:** `React, Node, Express, Mongodb, Generative AI`
+**Tech Stack:** `React, Node, Express, MongoDB, Generative AI`
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)]([Your projectLink1])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo1])
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/Adinath-j/Karigari)
 
 </td>
 <td width="50%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
-### 🚀 Kisanlog - Farmer Input Expense Tracker
+### 🚀 Kisanlog - Farmer Expense Tracker
 
-[Your projectDescription2]
+A full-stack MERN application helping farmers log, track, and analyze agricultural expenses.
 
-**Tech Stack:** `Currently HTML, CSS, JS, Node.js, MongoDB`
+**Tech Stack:** `React, Node.js, Express, MongoDB`
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)]([Your projectLink2])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo2])
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=render)](https://kisanlogwbackend.onrender.com/)
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/Adinath-j/Kisanlog)
 
 </td>
 </tr>
@@ -125,28 +135,27 @@ hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%"/>
 
-### 🔥 Clarify - Everyday personal basic needs assistant the mobile app.
+### 🔥 Clarify - Personal Assistant Mobile App
 
-[Your projectDescription3]
+An everyday personal assistant app for basic needs with intuitive UI and helpful features.
 
-**Tech Stack:** `React-Native, Stylesheet`
+**Tech Stack:** `React Native, Stylesheet`
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=heroku)]([Your projectLink3])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo3])
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/Adinath-j/Clarify)
 
 </td>
 <td width="50%">
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
 
-### ⚡ [Your projectName4]
+### 🌐 Personal Portfolio
 
-[Your projectDescription4]
+A modern developer portfolio showcasing my skills, projects, and achievements with smooth animations.
 
-**Tech Stack:** `[Your projectStack4]`
+**Tech Stack:** `React, Tailwind CSS, Vercel`
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=firebase)]([Your projectLink4])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo4])
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://portfolio2-flame-psi.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/Adinath-j/portfolio2)
 
 </td>
 </tr>
@@ -183,7 +192,10 @@ graph LR
 
 ## 📈 CONTRIBUTION GRAPH
 
-<img src="https://raw.githubusercontent.com/https://github.com/Adinath-j/https://github.com/Adinath-j/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-j&theme=github-dark&hide_border=true">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinath-j&theme=default&hide_border=true" />
+</picture>
 
 </div>
 
@@ -196,7 +208,7 @@ graph LR
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio2-flame-psi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[adinath-jadhav])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adinath-jadhav)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adinath0632@gmail.com)
 
 ### 💬 Let's Talk About:
@@ -223,9 +235,19 @@ graph LR
 
 <div align="center">
 
-## 🎵 SPOTIFY PLAYING
+## 💻 RECENTLY WORKED ON
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+```yaml
+Projects:
+  - 🎨 Karigari: AI marketplace connecting artisans with customers
+  - 🚀 Kisanlog: Full-stack MERN farmer expense tracker
+  - 💬 Clarify: Personal assistant mobile application
+
+Learning:
+  - 🤖 Generative AI & LLMs
+  - 📊 Advanced Machine Learning
+  - 🔗 Blockchain & Web3 Development
+```
 
 </div>
 
@@ -233,7 +255,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=https://github.com/Adinath-j&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Adinath-j&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
