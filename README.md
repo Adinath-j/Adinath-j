@@ -90,23 +90,4 @@ To make the **Recent Activity** section update automatically, you need to add a 
 2. Inside it, create a file named `update-readme.yml` with the content below.
 3. Commit and push the file. The action will run on a schedule (every 30 minutes) and after every push to your profile repo, updating the activity section.
 
-```yaml
-name: Update README with Recent Activity
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'  # every 30 minutes
-  workflow_dispatch:        # allows manual trigger
-  push:
-    branches: [ main ]      # also runs when you push to main
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_LINES: 10               # number of activities to show
-          COMMIT_MSG: '⚡ Update recent activity'  # commit message
+```
