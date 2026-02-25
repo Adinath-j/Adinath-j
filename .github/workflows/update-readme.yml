@@ -29,7 +29,7 @@ jobs:
         with:
           COMMIT_MSG: '⚡ Update recent activity'
           MAX_LINES: 10
-          SECTION_NAME: RECENT_ACTIVITY
+          TARGET_FILE: README.md
 
       - name: 📝 Configure Git
         run: |
