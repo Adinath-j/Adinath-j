@@ -2,11 +2,8 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight UTC
-    - cron: '0 12 * * *'  # Run daily at noon UTC
-  push:
-    branches:
-      - main
+    - cron: '0 2 * * *'  # Run daily at midnight UTC
+    - cron: '0 14 * * *'  # Run daily at noon UTC
   workflow_dispatch:  # Allow manual trigger from Actions tab
 
 permissions:

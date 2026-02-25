@@ -31,7 +31,7 @@ education: B. Tech 3rd Year Data Science.
 website: https://portfolio2-flame-psi.vercel.app/
 
 currently_learning: Generative AI, Machine Learning.
-2024_goal: As the Developer I want to contribute to open-source and learning about it, and make the projects that would really help ones to make a productive life.
+2024_goal: As the Developer I want to contribute to open-sourc and make the projects that would really help ones to make a productive life.
 hobbies: Reading Books, Listening songs, Self-Improvement, gaming.
 ```
 
