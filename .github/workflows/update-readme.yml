@@ -2,9 +2,9 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # Runs daily at 02:00 UTC
+    - cron: '0 2 * * *'     # Runs daily at 02:00 UTC (7:30 AM IST)
     - cron: '10 15 * * *'   # Runs daily at 15:10 UTC (8:40 PM IST)
-  workflow_dispatch:        # Allow manual trigger
+  workflow_dispatch:         # Allow manual trigger from Actions tab
 
 permissions:
   contents: write
@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update README Activity
+    name: Update README with GitHub Activity
     runs-on: ubuntu-latest
 
     steps:
@@ -23,24 +23,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🔄 Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: '⚡ Update recent activity'   # Not used for commit, just for reference
-          MAX_LINES: 10
-          TARGET_FILE: README.md
-          # Add event filtering if needed (see action docs)
-
-      - name: 📝 Commit and push changes
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "⚡ Update recent activity"
-            git push origin main
-            echo "✅ README updated successfully"
-          else
-            echo "✅ No changes needed"
-          fi
