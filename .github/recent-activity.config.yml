@@ -1,0 +1,18 @@
+settings:
+  disabled_events: []
+  whitelisted_events:
+    - comments
+    - create_repo
+    - fork
+    - issues
+    - member
+    - pr
+    - release
+    - review
+    - star
+    - wiki
+    - push
+  max_lines: 7
+  commit_username: github-actions[bot]
+  commit_email: 41898282+github-actions[bot]@users.noreply.github.com
+  commit_msg: "⚡ Update recent activity"
