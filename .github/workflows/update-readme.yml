@@ -3,7 +3,7 @@ name: Update README with Recent Activity
 on:
   schedule:
     - cron: '0 2 * * *'   # Runs daily at 02:00 UTC
-    - cron: '45 0 * * *'   # Runs daily at 00:45 UTC
+    - cron: '10 15 * * *'   # Runs daily at 15:10 UTC (8:40 PM IST)
   workflow_dispatch:        # Allow manual trigger
 
 permissions:
