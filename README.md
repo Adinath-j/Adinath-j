@@ -224,10 +224,9 @@ graph LR
 
 <div align="center">
 
-## 📋 RECENT ACTIVITY
+## 📈 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![GitHub Activity](https://raw.githubusercontent.com/Adinath-j/Adinath-j/main/metrics.svg)
 
 </div>
 
