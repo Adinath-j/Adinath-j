@@ -28,7 +28,7 @@ name: Adinath Deepak Jadhav
 located_in: Kolhapur, India
 current_role: Student
 education: B. Tech 3rd Year Data Science.
-website: https://portfolio2-flame-psi.vercel.app/
+website: https://adinathdev.vercel.app/
 
 currently_learning: Generative AI, Machine Learning.
 2024_goal: As the Developer I want to contribute to open-sourc and make the projects that would really help ones to make a productive life.
